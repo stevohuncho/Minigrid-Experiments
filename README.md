@@ -1,2 +1,1 @@
-# Minigrid-Experiments
-Conducting Transfer Learning Research Using the Minigrid Environments
+# Transfer Learning In Reinforcement Learning
